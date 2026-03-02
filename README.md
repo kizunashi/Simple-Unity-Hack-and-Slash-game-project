@@ -12,7 +12,7 @@ In this project I did:
 - my own textues
 - some 3d models where also made by me
 
-There are enemies (simple 3d models of slimes that would just move around a certain area. they were supposed to attack and follow the player, but thats when the project became to crumble, as I encountered multiple difficult errors and problems, and lost the motivation to work on the project further).
+There are enemies (simple 3d models of slimes that would just move around a certain area. they were supposed to attack and follow the player, but thats when the project started to crumble, and I lost the motivation to work on it).
 
 Issues:
 
